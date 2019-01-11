@@ -1,0 +1,3 @@
+#define GlockTest_VERSION_MAJOR @GlockTest_VERSION_MAJOR@
+#define GlockTest_VERSION_MINOR @GlockTest_VERSION_MINOR@
+#cmakedefine USE_GLOCK ON
